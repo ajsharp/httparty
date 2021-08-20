@@ -6,7 +6,6 @@ require 'net/https'
 require 'uri'
 require 'zlib'
 require 'multi_xml'
-require 'mime/types'
 require 'json'
 require 'csv'
 
